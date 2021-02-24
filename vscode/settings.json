@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "diffEditor.renderSideBySide": false,
+    "window.zoomLevel": 0,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.fontLigatures": null,
+    "editor.codeActionsOnSave": null,
+}
